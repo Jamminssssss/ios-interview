@@ -978,3 +978,18 @@ warrior.setWarrior(Beginners())`
 3. 의존성 주입 패턴에는 대략 3가지 방법이 있는데 각각 속성 주입, 생성자 주입, 메소드 주입 방식이다. 생성자 주입 방식은 스토리보드로 UI를 구성할 때는 활용할 수 없다.
 4. 의존성 주입 패턴을 활용하여 코드의 재사용성과 유연성, 테스트 용이성을 향상할 수 있다.
 5. 의존성을 주입하는 컨테이너는 앱 내의 모든 객체 간 의존성을 담당하게 된다.
+
+ios 인터뷰 공부 영상 모음
+
+https://youtu.be/P6jq_EMj0Qg
+
+https://youtu.be/ls2aiYWMUFk
+
+https://youtu.be/fvJWE5UEPbE
+
+https://youtu.be/zfuoB6ObGEQ
+
+https://youtu.be/_-3AtqWGnzQ
+
+
+
